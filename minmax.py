@@ -1,5 +1,6 @@
 # maximum score that
 # maximizing player can get
+# Provides standard mathematical functions like sqrt, sin, pi, etc.
 import math
 
 def minimax (curDepth, nodeIndex,
